@@ -1,5 +1,7 @@
 .classpath
 .project
+configurationslicing.iml
 .settings/
+.idea
 target/
 work/
